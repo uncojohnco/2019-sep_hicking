@@ -24,7 +24,7 @@ The solution was to scrape the data from [alltrails.com](https://www.alltrails.c
 | Using: - Jupyter, Python, BeautifulSoup, Pandas | <img src="https://user-images.githubusercontent.com/7044060/64194504-4d86e300-ce4d-11e9-84d3-e3623b17a3e8.png" width="500"> | 
 
 
-Packages used:
+## Packages used:
 
 - BeautifulSoup
 - Pandas
